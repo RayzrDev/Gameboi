@@ -1,0 +1,15 @@
+# non-code
+LICENSE
+README.md
+raw
+res
+
+# configs
+.deploy/Dockerfile
+.deploy/build.sh
+.dockerignore
+.gitignore
+
+# temp files
+.git
+target
